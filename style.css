@@ -19,6 +19,7 @@
     backdrop-filter: blur(18px) saturate(162%);
    width: auto;
    height: auto;
+   width: 100%;
    
 
  }
@@ -458,8 +459,9 @@ padding: 50px;
 
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    gap: 5px;
+    justify-content: center;
+
+    gap: 50px;
     
 }
 .all-img{
